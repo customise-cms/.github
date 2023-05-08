@@ -9,5 +9,7 @@ Customise is a new Headless CMS, striving to make a super simple multi purpose C
 - [**Customise Cloud**](https://customise-cms/cloud) - Our Cloud Version
 - [**YourShop**](https://github.com/customise-cms/yourShop) - Customise Demo
 
+View more of our repositories & modules [here](https://github.com/orgs/customise-cms/repositories)
+
 ### Docs & Support 📚
 We have tried to make this as simple as possible to make sure you can get on your feet as fast as possible. Please view our docs at [docs.customise-cms.com](https://docs.customise-cms.com)
