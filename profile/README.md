@@ -4,7 +4,7 @@
 Customise is a new Headless CMS, striving to make a super simple multi purpose CMS with lots of deployment and customision options. Developed with new technologies, customise to fast and cheap to use. 
 
 ### Customise 🚀
-- [**Customise**](https://github.com/customise-cms/customise) - Our Codebase.
+- [**Customise**](https://github.com/customise-cms/customise) - Our Monolithic Codebase.
 - [**Customise Serverless**](https://github.com/customise-cms/customise-serverless) - Our Serverless Solution (AWS)
 - [**Customise Cloud**](https://customise-cms/cloud) - Our Cloud Version
 - [**YourShop**](https://github.com/customise-cms/yourShop) - Customise Demo
